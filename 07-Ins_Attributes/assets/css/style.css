@@ -1,0 +1,33 @@
+
+
+/* 
+
+  . <--- class
+  # <--- id
+
+  (Targeting...
+    HTML elements = 0 points
+    Classes = 1 point
+    ID's = 2 points
+  )
+*/
+
+
+.lesson  {
+  background-color: lemonchiffon;
+}
+
+#paragraph-1 {
+  color: darkslateblue;
+  background-color: white;
+}
+
+#paragraph-2 {
+  color: darkslateblue;
+  background-color: darkorange;
+}
+
+#paragraph-3 {
+    color: white;
+    background-color: darkslateblue;
+}
